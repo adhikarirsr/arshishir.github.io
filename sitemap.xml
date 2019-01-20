@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>https://arshishir.github.io/projects/</loc>
+      <loc>https://arshishir.github.io/projects/biot_svarat/</loc>
       <lastmod>2019-01-19T00:00:00-05:00</lastmod>
     </url>
     
@@ -96,6 +96,15 @@
     
       <loc>https://arshishir.github.io/tags/mtb/</loc>
       <lastmod>2018-08-17T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://arshishir.github.io/projects/</loc>
+      <lastmod>2019-01-19T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

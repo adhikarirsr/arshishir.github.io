@@ -14,10 +14,10 @@
     
     <item>
       <title>Modeling Biot–Savart law using Machine Learning</title>
-      <link>https://arshishir.github.io/projects/</link>
+      <link>https://arshishir.github.io/projects/biot_svarat/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://arshishir.github.io/projects/</guid>
+      <guid>https://arshishir.github.io/projects/biot_svarat/</guid>
       <description> Research The goal of this project is to play with different deep learning architecture to see if we neural net can come up with a function that can model Biot-Savart law.
 Biot-Savart Law $$ B&amp;reg; = \frac{\mu_0}{4\pi} $$
 Collaborators Case Western Reserve University  Mingdong Fan  </description>
