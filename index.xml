@@ -33,7 +33,7 @@
 
 &lt;h2 id=&#34;biot-savart-law&#34;&gt;Biot-Savart Law&lt;/h2&gt;
 
-&lt;p&gt;$$ \textbf{B \left ( r \right)} = \frac{\mu_0}{4\pi} \int_C \frac{I d\textbf{l} \times \textbf{r&amp;rsquo;}{|\textbf{r&amp;rsquo;}|^3} $$&lt;/p&gt;
+&lt;p&gt;$$ \mathbf{B \left ( r \right)} = \frac{\mu_0}{4\pi} \int_C \frac{I d\mathbf{l} \times \mathbf{r&amp;rsquo;}{|\mathbf{r&amp;rsquo;}|^3} $$&lt;/p&gt;
 
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 
