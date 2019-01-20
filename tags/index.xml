@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jan 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://arshishir.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biot–Savart</title>
+      <link>https://arshishir.github.io/tags/biotsavart/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/biotsavart/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mtb</title>
@@ -18,6 +27,24 @@
       <pubDate>Fri, 17 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>https://arshishir.github.io/tags/mtb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>https://arshishir.github.io/tags/deep-learning/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://arshishir.github.io/tags/machine-learning/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     

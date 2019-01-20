@@ -20,6 +20,32 @@
     </item>
     
     <item>
+      <title>Modeling Biot–Savart law using Machine Learning</title>
+      <link>https://arshishir.github.io/projects/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/projects/</guid>
+      <description>
+
+&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
+
+&lt;p&gt;The goal of this project is to play with different deep learning architecture to see if we  neural net can come up with a function that can model Biot-Savart law.&lt;/p&gt;
+
+&lt;h2 id=&#34;biot-savart-law&#34;&gt;Biot-Savart Law&lt;/h2&gt;
+
+&lt;p&gt;$$ B&amp;reg; = \frac{\mu_0}{4\pi} $$&lt;/p&gt;
+
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+
+&lt;h4 id=&#34;case-western-reserve-university&#34;&gt;Case Western Reserve University&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mingdong Fan&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Unraveling the mechanism of the cadherin-catenin-actin catch bond</title>
       <link>https://arshishir.github.io/publication/plos_2018/jimm/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 -0400</pubDate>

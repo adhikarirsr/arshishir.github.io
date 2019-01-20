@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on S.R.A</title>
+    <link>https://arshishir.github.io/categories/resources/</link>
+    <description>Recent content in Resources on S.R.A</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 19 Jan 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://arshishir.github.io/categories/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modeling Biot–Savart law using Machine Learning</title>
+      <link>https://arshishir.github.io/projects/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/projects/</guid>
+      <description> Research The goal of this project is to play with different deep learning architecture to see if we neural net can come up with a function that can model Biot-Savart law.
+Biot-Savart Law $$ B&amp;reg; = \frac{\mu_0}{4\pi} $$
+Collaborators Case Western Reserve University  Mingdong Fan  </description>
+    </item>
+    
+  </channel>
+</rss>

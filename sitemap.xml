@@ -12,6 +12,14 @@
     
     <url>
     
+      <loc>https://arshishir.github.io/projects/</loc>
+      <lastmod>2019-01-19T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://arshishir.github.io/publication/plos_2018/jimm/</loc>
       <lastmod>2018-08-17T00:00:00-04:00</lastmod>
     </url>
@@ -69,6 +77,15 @@
     
     <url>
     
+      <loc>https://arshishir.github.io/tags/biotsavart/</loc>
+      <lastmod>2019-01-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://arshishir.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -95,6 +112,15 @@
     
     <url>
     
+      <loc>https://arshishir.github.io/categories/resources/</loc>
+      <lastmod>2019-01-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://arshishir.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -105,7 +131,25 @@
     <url>
     
       <loc>https://arshishir.github.io/tags/</loc>
-      <lastmod>2018-08-17T00:00:00-04:00</lastmod>
+      <lastmod>2019-01-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://arshishir.github.io/tags/deep-learning/</loc>
+      <lastmod>2019-01-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://arshishir.github.io/tags/machine-learning/</loc>
+      <lastmod>2019-01-19T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
