@@ -335,7 +335,7 @@
       
       Research The goal of this project is to explore deep learning by figuring out how to crack captcha.
 Procedure Use the following python code to create about 50,000 Captcha :
-import random import numpy as np import string from captcha.image import ImageCaptcha import random import numpy as np import string from captcha.image import ImageCaptcha image = ImageCaptcha() clist = list(string.ascii_uppercase+string.digits) random.shuffle(clist) labels = [] for j in range(10): randstr = '' for i in range(4): randstr = randstr + random.
+import random import numpy as np import string from captcha.image import ImageCaptcha image = ImageCaptcha() clist = list(string.ascii_uppercase+string.digits) random.shuffle(clist) labels = [] for j in range(50000): randstr = '' for i in range(4): randstr = randstr + random.choice(clist) labels.append(randstr) data = image.
       
     </div>
   </div>
