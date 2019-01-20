@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>biophysics on S.R.A</title>
+    <link>https://arshishir.github.io/tags/biophysics/</link>
+    <description>Recent content in biophysics on S.R.A</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://arshishir.github.io/tags/biophysics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unraveling the mechanism of the cadherin-catenin-actin catch bond</title>
+      <link>https://arshishir.github.io/publication/plos_2018/jimm/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://arshishir.github.io/publication/plos_2018/jimm/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

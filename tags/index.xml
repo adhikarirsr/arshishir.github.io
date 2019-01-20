@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 19 Jan 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2015 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://arshishir.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accurate</title>
+      <link>https://arshishir.github.io/tags/accurate/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/accurate/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Biot–Savart</title>
@@ -22,11 +31,56 @@
     </item>
     
     <item>
-      <title>Mtb</title>
-      <link>https://arshishir.github.io/tags/mtb/</link>
+      <title>Exact</title>
+      <link>https://arshishir.github.io/tags/exact/</link>
+      <pubDate>Thu, 28 Jul 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/exact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lennard-Jones</title>
+      <link>https://arshishir.github.io/tags/lennard-jones/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/lennard-jones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>actin</title>
+      <link>https://arshishir.github.io/tags/actin/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://arshishir.github.io/tags/mtb/</guid>
+      <guid>https://arshishir.github.io/tags/actin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biophysics</title>
+      <link>https://arshishir.github.io/tags/biophysics/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/biophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cadherin</title>
+      <link>https://arshishir.github.io/tags/cadherin/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/cadherin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>catch-bond</title>
+      <link>https://arshishir.github.io/tags/catch-bond/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/catch-bond/</guid>
       <description></description>
     </item>
     
@@ -45,6 +99,24 @@
       <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://arshishir.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modeling</title>
+      <link>https://arshishir.github.io/tags/modeling/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solvation</title>
+      <link>https://arshishir.github.io/tags/solvation/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/solvation/</guid>
       <description></description>
     </item>
     
