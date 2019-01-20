@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>Cracking Captcha using Deep Learning</title>
+      <link>https://arshishir.github.io/projects/cracking_captach/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/projects/cracking_captach/</guid>
+      <description>Research The goal of this project is to explore deep learning by figuring out how to crack captcha.
+##Procedure Use the following python code to create Captcha:
+import random import numpy as np import string from captcha.image import ImageCaptcha import random import numpy as np import string from captcha.image import ImageCaptcha image = ImageCaptcha() clist = list(string.ascii_uppercase+string.digits) random.shuffle(clist) labels = [] for j in range(10): randstr = &#39;&#39; for i in range(4): randstr = randstr + random.</description>
+    </item>
+    
+    <item>
       <title>Modeling Biot–Savart law using Machine Learning</title>
       <link>https://arshishir.github.io/projects/biot_svarat/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>

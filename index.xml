@@ -20,6 +20,51 @@
     </item>
     
     <item>
+      <title>Cracking Captcha using Deep Learning</title>
+      <link>https://arshishir.github.io/projects/cracking_captach/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/projects/cracking_captach/</guid>
+      <description>
+
+&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
+
+&lt;p&gt;The goal of this project is to explore deep learning by figuring out how to crack captcha.&lt;/p&gt;
+
+&lt;p&gt;##Procedure
+Use the following python code to create Captcha:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import random
+import numpy as np
+import string
+from captcha.image import ImageCaptcha
+import random
+import numpy as np
+import string
+from captcha.image import ImageCaptcha
+
+image = ImageCaptcha()
+clist = list(string.ascii_uppercase+string.digits)
+random.shuffle(clist)
+
+labels = []
+for j in range(10):
+    randstr = &#39;&#39;
+    for i in range(4):
+        randstr = randstr + random.choice(clist)
+    labels.append(randstr)
+    data = image.generate(randstr)
+    image.write(randstr, &#39;~/Desktop/Neural_nets/data_10/&#39;+randstr+&#39;.png&#39;)
+
+with open(&#39;~/Desktop/Neural_nets/data_10/&#39;+&#39;labels.txt&#39;,&#39;w&#39;) as f:
+  for labs in labels:
+      f.write(&#39;%s\n&#39; %labs)
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Modeling Biot–Savart law using Machine Learning</title>
       <link>https://arshishir.github.io/projects/biot_svarat/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on S.R.A</title>
-    <link>https://arshishir.github.io/projects/</link>
-    <description>Recent content in Projects on S.R.A</description>
+    <title>python on S.R.A</title>
+    <link>https://arshishir.github.io/tags/python/</link>
+    <description>Recent content in python on S.R.A</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 19 Jan 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://arshishir.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arshishir.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,17 +21,6 @@
       <description>Research The goal of this project is to explore deep learning by figuring out how to crack captcha.
 ##Procedure Use the following python code to create Captcha:
 import random import numpy as np import string from captcha.image import ImageCaptcha import random import numpy as np import string from captcha.image import ImageCaptcha image = ImageCaptcha() clist = list(string.ascii_uppercase+string.digits) random.shuffle(clist) labels = [] for j in range(10): randstr = &#39;&#39; for i in range(4): randstr = randstr + random.</description>
-    </item>
-    
-    <item>
-      <title>Modeling Biot–Savart law using Machine Learning</title>
-      <link>https://arshishir.github.io/projects/biot_svarat/</link>
-      <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://arshishir.github.io/projects/biot_svarat/</guid>
-      <description> Research The goal of this project is to play with different deep learning architecture to see if we neural net can come up with a function that can model Biot-Savart law.
-Biot-Savart Law $$ B \left ( r \right) = \frac{\mu_0}{4\pi} \int_C \frac{I dl \times r&amp;rsquo;}{|r&amp;rsquo;|^3} $$
-Collaborators Case Western Reserve University  Mingdong Fan  </description>
     </item>
     
   </channel>
