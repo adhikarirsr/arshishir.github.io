@@ -36,7 +36,30 @@
     
     <url>
     
+      <loc>https://arshishir.github.io/publication_types/2/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://arshishir.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://arshishir.github.io/publication/jcp_2011/jimm/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://arshishir.github.io/tags/mtb/</loc>
       <priority>0</priority>
     </url>
     
