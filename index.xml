@@ -33,7 +33,7 @@
 
 &lt;h2 id=&#34;biot-savart-law&#34;&gt;Biot-Savart Law&lt;/h2&gt;
 
-&lt;p&gt;$$ B&amp;reg; = \frac{\mu_0}{4\pi} $$&lt;/p&gt;
+&lt;p&gt;$$ B \left ( r \right) = \frac{\mu_0}{4\pi} \int_C \frac{I dl x r&amp;rsquo;}{|r&amp;rsquo;|^3} $$&lt;/p&gt;
 
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 
