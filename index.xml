@@ -33,7 +33,7 @@
 
 &lt;h2 id=&#34;procedure&#34;&gt;Procedure&lt;/h2&gt;
 
-&lt;p&gt;Use the following python code to create about 50,000 Captcha :&lt;/p&gt;
+&lt;p&gt;Use the following python code to create 50,000 Captcha :&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import random
 import numpy as np
@@ -56,7 +56,6 @@ for j in range(50000):
 with open(&#39;~/Desktop/Neural_nets/data_10/&#39;+&#39;labels.txt&#39;,&#39;w&#39;) as f:
   for labs in labels:
       f.write(&#39;%s\n&#39; %labs)
-
 &lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
