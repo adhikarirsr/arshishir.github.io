@@ -18,9 +18,8 @@
       <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://arshishir.github.io/projects/cracking_captach/</guid>
-      <description>Research The goal of this project is to explore deep learning by figuring out how to crack captcha.
-Status: Testing Tools  Mathematica: For machine learning Python: For generating data Julia: Future goal is to use Julia for ML implementation  Procedure Use the following python code to create 50,000 Captcha :
-import random import numpy as np import string from captcha.image import ImageCaptcha image = ImageCaptcha() clist = list(string.</description>
+      <description>Research We have been mostly exploring theoretical aspects of machine learning. This project grew out of our need to get our hands dirty. So, the goal of this project is to explore deep learning by figuring out how to crack captcha.
+Tools  Mathematica: For machine learning Python: For generating data Julia: Future goal is to use Julia for ML implementation  Procedure Use the following python code to create 50,000 Captcha :</description>
     </item>
     
   </channel>
