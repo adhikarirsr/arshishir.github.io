@@ -19,8 +19,8 @@
       
       <guid>https://arshishir.github.io/projects/cracking_captach/</guid>
       <description>Research The goal of this project is to explore deep learning by figuring out how to crack captcha.
-Procedure Use the following python code to create 50,000 Captcha :
-import random import numpy as np import string from captcha.image import ImageCaptcha image = ImageCaptcha() clist = list(string.ascii_uppercase+string.digits) random.shuffle(clist) labels = [] for j in range(50000): randstr = &#39;&#39; for i in range(4): randstr = randstr + random.choice(clist) labels.append(randstr) data = image.</description>
+Status: Testing Tools  Mathematica: For machine learning Python: For generating data Julia: Future goal is to use Julia for ML implementation  Procedure Use the following python code to create 50,000 Captcha :
+import random import numpy as np import string from captcha.image import ImageCaptcha image = ImageCaptcha() clist = list(string.</description>
     </item>
     
     <item>
