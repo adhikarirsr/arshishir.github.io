@@ -12,5 +12,14 @@
 	<atom:link href="https://arshishir.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Why?</title>
+      <link>https://arshishir.github.io/post/blog1/</link>
+      <pubDate>Sat, 19 Jan 2019 01:38:30 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/post/blog1/</guid>
+      <description>As a PhD, we are exposed to lots of new ideas and concepts. This website is my attempt to keep track of the those ideas and concepts.</description>
+    </item>
+    
   </channel>
 </rss>
