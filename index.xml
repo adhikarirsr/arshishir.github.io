@@ -40,11 +40,11 @@
 
 &lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
 
-&lt;p&gt;For scientific computing, we have have been using $\textit{Mathematica}$. So, firstly we will $\textit{Mathematica}$’s inbuilt Neural Network functions and tools.&lt;/p&gt;
+&lt;p&gt;For scientific computing, we have have been using $Mathematica$. So, firstly we will $Mathematica$’s inbuilt Neural Network functions and tools.&lt;/p&gt;
 
-&lt;p&gt;We have used $\textit{Python}$ for data generation. We would also like to use $\textit{Python}$’s ML packages like: $\textit{PyTroch, Keras, Fastai}$.&lt;/p&gt;
+&lt;p&gt;We have used $Python$ for data generation. We would also like to use $Python$’s ML packages like: $PyTorch, Keras, Fastai$.&lt;/p&gt;
 
-&lt;p&gt;Lastly, we would like to use $\textit{Julia}$’s ML packages like: $\textit{Flux, KNet}$.&lt;/p&gt;
+&lt;p&gt;Lastly, we would like to use $Julia$’s ML packages like: $Flux, KNet$.&lt;/p&gt;
 
 &lt;h2 id=&#34;procedure&#34;&gt;Procedure&lt;/h2&gt;
 
