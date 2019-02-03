@@ -31,6 +31,24 @@
     </item>
     
     <item>
+      <title>Book</title>
+      <link>https://arshishir.github.io/tags/book/</link>
+      <pubDate>Sun, 03 Feb 2019 01:38:30 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://arshishir.github.io/tags/deep-learning/</link>
+      <pubDate>Sun, 03 Feb 2019 01:38:30 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Exact</title>
       <link>https://arshishir.github.io/tags/exact/</link>
       <pubDate>Thu, 28 Jul 2011 00:00:00 -0400</pubDate>
@@ -45,6 +63,33 @@
       <pubDate>Mon, 23 Nov 2015 00:00:00 -0500</pubDate>
       
       <guid>https://arshishir.github.io/tags/lennard-jones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning</title>
+      <link>https://arshishir.github.io/tags/machine-learning/</link>
+      <pubDate>Sun, 03 Feb 2019 01:38:30 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRML</title>
+      <link>https://arshishir.github.io/tags/prml/</link>
+      <pubDate>Sun, 03 Feb 2019 01:38:30 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/prml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVM</title>
+      <link>https://arshishir.github.io/tags/svm/</link>
+      <pubDate>Sun, 03 Feb 2019 01:38:30 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/tags/svm/</guid>
       <description></description>
     </item>
     

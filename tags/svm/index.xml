@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Blog on S.R.A</title>
-    <link>https://arshishir.github.io/post/</link>
-    <description>Recent content in Test Blog on S.R.A</description>
+    <title>SVM on S.R.A</title>
+    <link>https://arshishir.github.io/tags/svm/</link>
+    <description>Recent content in SVM on S.R.A</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 03 Feb 2019 01:38:30 -0500</lastBuildDate>
     
-	<atom:link href="https://arshishir.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arshishir.github.io/tags/svm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       
       <guid>https://arshishir.github.io/post/expo_in_ml/</guid>
       <description>For the past year or so, I have been dabbling in machine learning. Last summer, I decided to spend some serious amount of time exploring ML. As a beginner, I got overwhelmed by the plethora of resources out there. Meanwhile, I convinced one of my friends to go on this exploration with me. We decided to go through lectures on machine learning by Andrew Ng. The idea was to watch his old Coursera lectures and meet once a week and discuss those ideas.</description>
-    </item>
-    
-    <item>
-      <title>Why?</title>
-      <link>https://arshishir.github.io/post/why/</link>
-      <pubDate>Fri, 01 Feb 2019 01:38:30 -0500</pubDate>
-      
-      <guid>https://arshishir.github.io/post/why/</guid>
-      <description>As a Ph.D. student, we are exposed to lots of new ideas and concepts. The posts on websites are my attempt to keep track of those ideas and concepts. I started a blog a couple of years ago but failed to maintain it. This is my second go at it.
-I set up this website using Hugo framework with the academic theme. I have high hopes from this set up as it natively supports $\LaTeX$.</description>
     </item>
     
   </channel>
