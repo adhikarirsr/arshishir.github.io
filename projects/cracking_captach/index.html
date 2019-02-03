@@ -578,33 +578,36 @@
 
 <h2 id="procedure">Procedure</h2>
 
-<ol>
-<li>Use the following python code to create 50,000 Captcha :
-```python
-import random
+<ul>
+<li>Using the following python code to create 50,000 Captcha:</li>
+</ul>
+
+<pre><code class="language-python">import random
 import numpy as np
 import string
-from captcha.image import ImageCaptcha</li>
-</ol>
+from captcha.image import ImageCaptcha
 
-<p>image = ImageCaptcha()
+image = ImageCaptcha()
 clist = list(string.ascii_uppercase+string.digits)
-random.shuffle(clist)</p>
+random.shuffle(clist)
 
-<p>labels = []
+labels = []
 for j in range(50000):
-    randstr = &ldquo;
+    randstr = ''
     for i in range(4):
         randstr = randstr + random.choice(clist)
     labels.append(randstr)
     data = image.generate(randstr)
-    image.write(randstr, &lsquo;~/Desktop/Neural_nets/data_10/&lsquo;+randstr+&rsquo;.png&rsquo;)</p>
+    image.write(randstr, '~/Desktop/Neural_nets/data_10/'+randstr+'.png')
 
-<p>with open(&rsquo;~/Desktop/Neural_nets/data_10/&lsquo;+&lsquo;labels.txt&rsquo;,&lsquo;w&rsquo;) as f:
+with open('~/Desktop/Neural_nets/data_10/'+'labels.txt','w') as f:
   for labs in labels:
-      f.write(&lsquo;%s\n&rsquo; %labs)
-```
-2. We are in a process of writing and training a model like $\textbf{VGG16}$</p>
+      f.write('%s\n' %labs)
+</code></pre>
+
+<ul>
+<li>We are in a process of writing and training a model like: VGG16</li>
+</ul>
 
     </div>
 

@@ -44,33 +44,36 @@
 
 &lt;h2 id=&#34;procedure&#34;&gt;Procedure&lt;/h2&gt;
 
-&lt;ol&gt;
-&lt;li&gt;Use the following python code to create 50,000 Captcha :
-```python
-import random
+&lt;ul&gt;
+&lt;li&gt;Using the following python code to create 50,000 Captcha:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import random
 import numpy as np
 import string
-from captcha.image import ImageCaptcha&lt;/li&gt;
-&lt;/ol&gt;
+from captcha.image import ImageCaptcha
 
-&lt;p&gt;image = ImageCaptcha()
+image = ImageCaptcha()
 clist = list(string.ascii_uppercase+string.digits)
-random.shuffle(clist)&lt;/p&gt;
+random.shuffle(clist)
 
-&lt;p&gt;labels = []
+labels = []
 for j in range(50000):
-    randstr = &amp;ldquo;
+    randstr = &#39;&#39;
     for i in range(4):
         randstr = randstr + random.choice(clist)
     labels.append(randstr)
     data = image.generate(randstr)
-    image.write(randstr, &amp;lsquo;~/Desktop/Neural_nets/data_10/&amp;lsquo;+randstr+&amp;rsquo;.png&amp;rsquo;)&lt;/p&gt;
+    image.write(randstr, &#39;~/Desktop/Neural_nets/data_10/&#39;+randstr+&#39;.png&#39;)
 
-&lt;p&gt;with open(&amp;rsquo;~/Desktop/Neural_nets/data_10/&amp;lsquo;+&amp;lsquo;labels.txt&amp;rsquo;,&amp;lsquo;w&amp;rsquo;) as f:
+with open(&#39;~/Desktop/Neural_nets/data_10/&#39;+&#39;labels.txt&#39;,&#39;w&#39;) as f:
   for labs in labels:
-      f.write(&amp;lsquo;%s\n&amp;rsquo; %labs)
-```
-2. We are in a process of writing and training a model like $\textbf{VGG16}$&lt;/p&gt;
+      f.write(&#39;%s\n&#39; %labs)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We are in a process of writing and training a model like: VGG16&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
