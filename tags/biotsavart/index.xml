@@ -18,10 +18,10 @@
       <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://arshishir.github.io/projects/biot_svarat/</guid>
-      <description> ##Status Experimental &amp;amp; Brainstorming Phase
+      <description>##Status Experimental &amp;amp; Brainstorming Phase
 Research The goal of this project is to play with different deep learning architecture to see if a neural net can come up with a function that can model Biot-Savart law.
 Biot-Savart Law $$ B \left ( r \right) = \frac{\mu_0}{4\pi} \int_C \frac{I dl \times r&amp;rsquo;}{|r&amp;rsquo;|^3} $$
-Collaborators Case Western Reserve University  Mingdong Fan  </description>
+Collaborators Case Western Reserve University  Mingdong Fan  Note: This post is incomplete. This project needs more thought.</description>
     </item>
     
   </channel>

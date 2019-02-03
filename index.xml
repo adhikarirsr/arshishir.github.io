@@ -41,7 +41,11 @@
 &lt;p&gt;One of the hidden gems of youtube &lt;a href=&#34;https://www.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A/playlists&#34; target=&#34;_blank&#34;&gt;Machine learning lecture series&lt;/a&gt;
 . I have watched a couple of this lecture and they are brilliant. I would highly recommend his lecture on Decision Tree.&lt;/p&gt;
 
-&lt;p&gt;This is by no means a complete list. I went through many more resources. I will add those and the ones that I am currently going through soon.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;This is by no means a complete list. I went through many more resources. I will add those and the ones that I am currently going through soon.&lt;/p&gt;
+
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -113,6 +117,12 @@ with open(&#39;~/Desktop/Neural_nets/data_10/&#39;+&#39;labels.txt&#39;,&#39;w&#
 &lt;ul&gt;
 &lt;li&gt;We are in a process of writing and training a model like: VGG16&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Note: This post is incomplete&amp;hellip;&lt;/p&gt;
+
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -142,6 +152,12 @@ Experimental &amp;amp; Brainstorming Phase&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Mingdong Fan&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Note: This post is incomplete. This project needs more thought.&lt;/p&gt;
+
+&lt;/div&gt;
+
 </description>
     </item>
     
