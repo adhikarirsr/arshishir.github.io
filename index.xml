@@ -44,14 +44,14 @@
 
 &lt;h2 id=&#34;procedure&#34;&gt;Procedure&lt;/h2&gt;
 
-&lt;ul&gt;
+&lt;ol&gt;
 &lt;li&gt;Use the following python code to create 50,000 Captcha :
 ```python
 import random
 import numpy as np
 import string
 from captcha.image import ImageCaptcha&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;image = ImageCaptcha()
 clist = list(string.ascii_uppercase+string.digits)
@@ -70,7 +70,7 @@ for j in range(50000):
   for labs in labels:
       f.write(&amp;lsquo;%s\n&amp;rsquo; %labs)
 ```
-* We are in a process of writing and training a model like $\textit{VGG16}$&lt;/p&gt;
+2. We are in a process of writing and training a model like $\textbf{VGG16}$&lt;/p&gt;
 </description>
     </item>
     

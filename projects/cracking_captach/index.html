@@ -578,14 +578,14 @@
 
 <h2 id="procedure">Procedure</h2>
 
-<ul>
+<ol>
 <li>Use the following python code to create 50,000 Captcha :
 ```python
 import random
 import numpy as np
 import string
 from captcha.image import ImageCaptcha</li>
-</ul>
+</ol>
 
 <p>image = ImageCaptcha()
 clist = list(string.ascii_uppercase+string.digits)
@@ -604,7 +604,7 @@ for j in range(50000):
   for labs in labels:
       f.write(&lsquo;%s\n&rsquo; %labs)
 ```
-* We are in a process of writing and training a model like $\textit{VGG16}$</p>
+2. We are in a process of writing and training a model like $\textbf{VGG16}$</p>
 
     </div>
 
