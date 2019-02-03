@@ -25,10 +25,13 @@
     <item>
       <title>Cracking Captcha using Deep Learning</title>
       <link>https://arshishir.github.io/projects/cracking_captach/</link>
-      <pubDate>Sat, 19 Jan 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>https://arshishir.github.io/projects/cracking_captach/</guid>
       <description>
+
+&lt;p&gt;##Status
+Experimental &amp;amp; Ongoing&lt;/p&gt;
 
 &lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
 
@@ -85,9 +88,12 @@ with open(&#39;~/Desktop/Neural_nets/data_10/&#39;+&#39;labels.txt&#39;,&#39;w&#
       <guid>https://arshishir.github.io/projects/biot_svarat/</guid>
       <description>
 
+&lt;p&gt;##Status
+Experimental &amp;amp; Brainstorming Phase&lt;/p&gt;
+
 &lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
 
-&lt;p&gt;The goal of this project is to play with different deep learning architecture to see if we  neural net can come up with a function that can model Biot-Savart law.&lt;/p&gt;
+&lt;p&gt;The goal of this project is to play with different deep learning architecture to see if a neural net can come up with a function that can model Biot-Savart law.&lt;/p&gt;
 
 &lt;h2 id=&#34;biot-savart-law&#34;&gt;Biot-Savart Law&lt;/h2&gt;
 
