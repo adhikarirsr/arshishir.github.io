@@ -147,18 +147,32 @@ with open(&#39;~/Desktop/Neural_nets/data_10/&#39;+&#39;labels.txt&#39;,&#39;w&#
       <guid>https://arshishir.github.io/post/interesting-_website/</guid>
       <description>
 
+&lt;p&gt;This is  a place holder for all interesting blogs and websites.&lt;/p&gt;
+
 &lt;h3 id=&#34;blogs&#34;&gt;Blogs&lt;/h3&gt;
 
-&lt;p&gt;1.&lt;a href=&#34;https://johncarlosbaez.wordpress.com/&#34; target=&#34;_blank&#34;&gt;https://johncarlosbaez.wordpress.com/&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://johncarlosbaez.wordpress.com/&#34; target=&#34;_blank&#34;&gt;https://johncarlosbaez.wordpress.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h3 id=&#34;websites&#34;&gt;Websites&lt;/h3&gt;
 
-&lt;p&gt;1.&lt;a href=&#34;http://math.ucr.edu/home/baez/&#34; target=&#34;_blank&#34;&gt;http://math.ucr.edu/home/baez/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This webpage has many interesting topics. I particularly find his exposition to information geometry (&lt;a href=&#34;http://math.ucr.edu/home/baez/information/&#34; target=&#34;_blank&#34;&gt;http://math.ucr.edu/home/baez/information/&lt;/a&gt;) very useful.&lt;/p&gt;
-
 &lt;ol&gt;
+&lt;li&gt;John Carlo Baez
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://math.ucr.edu/home/baez/&#34; target=&#34;_blank&#34;&gt;http://math.ucr.edu/home/baez/&lt;/a&gt;
+WARNING: You Will Lose Track of Time!
+This webpage has many interesting topics. I particularly find his exposition to information geometry (&lt;a href=&#34;http://math.ucr.edu/home/baez/information/&#34; target=&#34;_blank&#34;&gt;http://math.ucr.edu/home/baez/information/&lt;/a&gt;) very useful.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://math.ucr.edu/home/baez/stoch_stable.pdf&#34; target=&#34;_blank&#34;&gt;http://math.ucr.edu/home/baez/stoch_stable.pdf&lt;/a&gt;
+Quantum Techniques for Stochastic Mechanics. A monogram, I hope to go through.&lt;/li&gt;
+&lt;li&gt;Gavin E. Crooks&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://threeplusone.com/gec/&#34; target=&#34;_blank&#34;&gt;http://threeplusone.com/gec/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://threeplusone.com/FieldGuide.pdf&#34; target=&#34;_blank&#34;&gt;http://threeplusone.com/FieldGuide.pdf&lt;/a&gt; (Field Guide to Continuous Probability Distributions)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://threeplusone.com/on_information.pdf&#34; target=&#34;_blank&#34;&gt;http://threeplusone.com/on_information.pdf&lt;/a&gt; (On Measures of Entropy and Infromation)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://threeplusone.com/Crooks-FisherInfo.pdf&#34; target=&#34;_blank&#34;&gt;http://threeplusone.com/Crooks-FisherInfo.pdf&lt;/a&gt; (Fisher Information and Statistical Mechanics)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://threeplusone.com/Crooks-Whither.pdf&#34; target=&#34;_blank&#34;&gt;http://threeplusone.com/Crooks-Whither.pdf&lt;/a&gt; (Whither Time’s Arrow?)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
