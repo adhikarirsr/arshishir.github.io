@@ -7,16 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://arshishir.github.io/tags/thermodynamics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Thermodynamics, ESM, and NESM</title>
-      <link>https://arshishir.github.io/post/basic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://arshishir.github.io/post/fpe/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://arshishir.github.io/post/basic/</guid>
+      <guid>https://arshishir.github.io/post/fpe/</guid>
       <description>The picture below summarizes very basic idea behind Thermodynamics, Equilibrium Statistical Mechanics, and Nonequilibrium Statistical Mechanics.  Basic Idea based on Elements of Nonequilibrium Statistical Mechanics book by V. Balakrishnan</description>
     </item>
     

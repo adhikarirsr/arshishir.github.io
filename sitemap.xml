@@ -4,7 +4,39 @@
     
     <url>
     
+      <loc>https://arshishir.github.io/post/fpe/</loc>
+      <lastmod>2019-04-02T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://arshishir.github.io/post/expo_in_ml/</loc>
+      <lastmod>2019-02-03T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://arshishir.github.io/projects/cracking_captach/</loc>
+      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://arshishir.github.io/post/interesting-_papers/</loc>
+      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://arshishir.github.io/post/why/</loc>
       <lastmod>2019-02-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -71,6 +103,7 @@
     <url>
     
       <loc>https://arshishir.github.io/tags/book/</loc>
+      <lastmod>2019-02-03T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -87,6 +120,7 @@
     <url>
     
       <loc>https://arshishir.github.io/tags/deep-learning/</loc>
+      <lastmod>2019-02-03T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -95,6 +129,7 @@
     <url>
     
       <loc>https://arshishir.github.io/tags/equilibrium-stat-mechanics/</loc>
+      <lastmod>2019-04-02T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -111,13 +146,6 @@
     
     <url>
     
-      <loc>https://arshishir.github.io/post/expo_in_ml/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://arshishir.github.io/tags/lennard-jones/</loc>
       <lastmod>2015-11-23T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -128,6 +156,7 @@
     <url>
     
       <loc>https://arshishir.github.io/tags/machine-learning/</loc>
+      <lastmod>2019-02-03T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -136,6 +165,7 @@
     <url>
     
       <loc>https://arshishir.github.io/tags/non-equilibrium-stat-mechanics/</loc>
+      <lastmod>2019-04-02T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -144,6 +174,7 @@
     <url>
     
       <loc>https://arshishir.github.io/tags/prml/</loc>
+      <lastmod>2019-02-03T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -188,6 +219,7 @@
     <url>
     
       <loc>https://arshishir.github.io/tags/svm/</loc>
+      <lastmod>2019-02-03T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -205,21 +237,8 @@
     <url>
     
       <loc>https://arshishir.github.io/tags/thermodynamics/</loc>
+      <lastmod>2019-04-02T00:00:00-04:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://arshishir.github.io/post/basic/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://arshishir.github.io/post/why/</loc>
     </url>
     
   
@@ -272,6 +291,7 @@
     <url>
     
       <loc>https://arshishir.github.io/tags/deep-learning/</loc>
+      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -289,6 +309,7 @@
     <url>
     
       <loc>https://arshishir.github.io/tags/machine-learning/</loc>
+      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

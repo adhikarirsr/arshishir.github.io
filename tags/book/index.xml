@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 03 Feb 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://arshishir.github.io/tags/book/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +15,7 @@
     <item>
       <title>Exploration in ML</title>
       <link>https://arshishir.github.io/post/expo_in_ml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>https://arshishir.github.io/post/expo_in_ml/</guid>
       <description>For the past year or so, I have been dabbling in machine learning. Last summer, I decided to spend some serious amount of time exploring ML. As a beginner, I got overwhelmed by the plethora of resources out there. Meanwhile, I convinced one of my friends to go on this exploration with me. We decided to go through lectures on machine learning by Andrew Ng. The idea was to watch his old Coursera lectures and meet once a week and discuss those ideas.</description>
