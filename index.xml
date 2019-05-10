@@ -153,6 +153,7 @@ with open(&#39;~/Desktop/Neural_nets/data_10/&#39;+&#39;labels.txt&#39;,&#39;w&#
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://johncarlosbaez.wordpress.com/&#34; target=&#34;_blank&#34;&gt;https://johncarlosbaez.wordpress.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mgbukov.github.io/&#34; target=&#34;_blank&#34;&gt;https://mgbukov.github.io/&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h3 id=&#34;websites&#34;&gt;Websites&lt;/h3&gt;
@@ -164,7 +165,8 @@ with open(&#39;~/Desktop/Neural_nets/data_10/&#39;+&#39;labels.txt&#39;,&#39;w&#
 &lt;li&gt;&lt;a href=&#34;http://math.ucr.edu/home/baez/&#34; target=&#34;_blank&#34;&gt;http://math.ucr.edu/home/baez/&lt;/a&gt; &lt;br /&gt;
 This webpage has many interesting topics. I particularly find his exposition to information geometry (&lt;a href=&#34;http://math.ucr.edu/home/baez/information/&#34; target=&#34;_blank&#34;&gt;http://math.ucr.edu/home/baez/information/&lt;/a&gt;) very useful.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://math.ucr.edu/home/baez/stoch_stable.pdf&#34; target=&#34;_blank&#34;&gt;http://math.ucr.edu/home/baez/stoch_stable.pdf&lt;/a&gt; &lt;br /&gt;
-Quantum Techniques for Stochastic Mechanics. A monogram, I hope to go through one day.&lt;/li&gt;
+Quantum Techniques for Stochastic Mechanics. A monogram, I hope to go through one day.
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Gavin E. Crooks&lt;/p&gt;
@@ -175,6 +177,13 @@ Quantum Techniques for Stochastic Mechanics. A monogram, I hope to go through on
 &lt;li&gt;&lt;a href=&#34;http://threeplusone.com/on_information.pdf&#34; target=&#34;_blank&#34;&gt;http://threeplusone.com/on_information.pdf&lt;/a&gt; (On Measures of Entropy and Infromation)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://threeplusone.com/Crooks-FisherInfo.pdf&#34; target=&#34;_blank&#34;&gt;http://threeplusone.com/Crooks-FisherInfo.pdf&lt;/a&gt; (Fisher Information and Statistical Mechanics)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://threeplusone.com/Crooks-Whither.pdf&#34; target=&#34;_blank&#34;&gt;http://threeplusone.com/Crooks-Whither.pdf&lt;/a&gt; (Whither Time’s Arrow?)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Machine Learning&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1803.08823.pdf&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1803.08823.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.offconvex.org/&#34; target=&#34;_blank&#34;&gt;http://www.offconvex.org/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
