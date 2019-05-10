@@ -149,17 +149,17 @@ with open(&#39;~/Desktop/Neural_nets/data_10/&#39;+&#39;labels.txt&#39;,&#39;w&#
 
 &lt;p&gt;This is my attempt to keep track of interesting science related websites and blogs&lt;/p&gt;
 
-&lt;h3 id=&#34;blogs&#34;&gt;Blogs&lt;/h3&gt;
+&lt;h3 id=&#34;blogs&#34;&gt;&lt;strong&gt;Blogs&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://johncarlosbaez.wordpress.com/&#34; target=&#34;_blank&#34;&gt;https://johncarlosbaez.wordpress.com/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://mgbukov.github.io/&#34; target=&#34;_blank&#34;&gt;https://mgbukov.github.io/&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&#34;websites&#34;&gt;Websites&lt;/h3&gt;
+&lt;h3 id=&#34;websites&#34;&gt;&lt;strong&gt;Websites&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;ol&gt;
-&lt;li&gt;John Carlo Baez
+&lt;li&gt;&lt;strong&gt;John Carlo Baez&lt;/strong&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://math.ucr.edu/home/baez/&#34; target=&#34;_blank&#34;&gt;http://math.ucr.edu/home/baez/&lt;/a&gt; &lt;br /&gt;
@@ -169,7 +169,7 @@ Quantum Techniques for Stochastic Mechanics. A monogram, I hope to go through on
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Gavin E. Crooks&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gavin E. Crooks&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://threeplusone.com/gec/&#34; target=&#34;_blank&#34;&gt;http://threeplusone.com/gec/&lt;/a&gt;&lt;/li&gt;
@@ -179,7 +179,7 @@ Quantum Techniques for Stochastic Mechanics. A monogram, I hope to go through on
 &lt;li&gt;&lt;a href=&#34;http://threeplusone.com/Crooks-Whither.pdf&#34; target=&#34;_blank&#34;&gt;http://threeplusone.com/Crooks-Whither.pdf&lt;/a&gt; (Whither Time’s Arrow?)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Machine Learning&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Machine Learning&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1803.08823.pdf&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1803.08823.pdf&lt;/a&gt;&lt;/li&gt;
@@ -205,7 +205,7 @@ Quantum Techniques for Stochastic Mechanics. A monogram, I hope to go through on
       <description>&lt;p&gt;Collections of papers that I would like to go over.&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Stochastic Thermodynamics&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Stochastic Thermodynamics&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Arcsine laws in stochastic thermodynamics (Barato et al.)&lt;br /&gt;
@@ -214,21 +214,21 @@ Quantum Techniques for Stochastic Mechanics. A monogram, I hope to go through on
 &lt;a href=&#34;https://arxiv.org/abs/1704.03480&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1704.03480&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Ecology&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ecology&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Constrained optimization as ecological dynamics with applications to    random quadratic programming in high dimensions (Mehta et al.)&lt;br /&gt;
 &lt;a href=&#34;https://arxiv.org/pdf/1809.04221.pdf&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1809.04221.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Protein&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Protein&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;The strength of protein-protein interactions controls the information capacity and dynamical response of signaling networks (Wang et. al)&lt;br /&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1811.05371&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1811.05371&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Reinforcement Learning for Physics Problems&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Reinforcement Learning for Physics Problems&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Reinforcement Learning in Different Phases of Quantum Control (Bukov et al.)&lt;br /&gt;
@@ -238,7 +238,7 @@ Inverting the quantum Kapitza  (Bukov) &lt;br /&gt;
 &lt;a href=&#34;https://arxiv.org/pdf/1808.08910.pdf&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1808.08910.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Speed Limit&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Speed Limit&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Geometric Speed Limit of Accessible Many-Body State Preparation (Bukov et al.)&lt;br /&gt;
