@@ -7,7 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 01 Feb 2019 01:38:30 -0500</lastBuildDate>
     
 	<atom:link href="https://arshishir.github.io/tags/equilibrium-stat-mechanics/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +14,10 @@
     <item>
       <title>Thermodynamics, ESM, and NESM</title>
       <link>https://arshishir.github.io/post/basic/</link>
-      <pubDate>Fri, 01 Feb 2019 01:38:30 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arshishir.github.io/post/basic/</guid>
-      <description>  Basic Idea   </description>
+      <description>The picture below summarizes very basic idea behind Thermodynamics, Equilibrium Statistical Mechanics, and Nonequilibrium Statistical Mechanics.  Basic Idea based on Elements of Nonequilibrium Statistical Mechanics book by V. Balakrishnan</description>
     </item>
     
   </channel>

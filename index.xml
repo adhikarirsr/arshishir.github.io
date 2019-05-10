@@ -11,81 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Exploration in ML</title>
-      <link>https://arshishir.github.io/post/expo_in_ml/</link>
-      <pubDate>Sun, 03 Feb 2019 01:38:30 -0500</pubDate>
-      
-      <guid>https://arshishir.github.io/post/expo_in_ml/</guid>
-      <description>
-
-&lt;p&gt;For the past year or so, I have been dabbling in machine learning. Last summer, I decided to spend some serious amount of time exploring ML. As a beginner, I got overwhelmed by the plethora of resources out there. Meanwhile, I convinced one of my friends to go on this exploration with me. We decided to go through lectures on &lt;em&gt;machine learning by Andrew Ng&lt;/em&gt;. The idea was to watch his old &lt;em&gt;Coursera&lt;/em&gt; lectures and meet once a week and discuss those ideas.&lt;/p&gt;
-
-&lt;p&gt;Fortunately that summer, I also got an opportunity to mentor a high school student. He wanted to explore some computer science related topic. So, I decided to teach him machine learning. This decision forced me to pick a book and some sets of lecture notes. I choose &lt;em&gt;Pattern Recognition and Machine Learning (PRML)&lt;/em&gt; by Christopher Bishop and &lt;em&gt;Deep learning specialization by Andrew Ng&lt;/em&gt;. With the added responsibility of teaching, I strated going through first few chapters of &lt;em&gt;PRML&lt;/em&gt;. Based on &lt;em&gt;PRML&lt;/em&gt; and &lt;em&gt;Deep Learning specialization&lt;/em&gt;, I made lecture notes so that I could convey those ideas clearly. It was fun!&lt;/p&gt;
-
-&lt;p&gt;In the mean that I came across some other very useful resources. Here’s a list of some of those resources:&lt;/p&gt;
-
-&lt;h3 id=&#34;support-vector-machine&#34;&gt;Support Vector Machine&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;One of the most gentle and clear introductions to SVM by &lt;a href=&#34;https://www.youtube.com/watch?v=_PwhiWxHK8o&amp;amp;t&#34; target=&#34;_blank&#34;&gt;Patrick Winston&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Interesting and very helpful SVM recitation session by &lt;a href=&#34;https://www.youtube.com/watch?v=ik7E7r2a1h8&#34; target=&#34;_blank&#34;&gt;Jessica Noss&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;machine-learning-lectures-by-nando-freitas&#34;&gt;Machine Learning lectures by Nando Freitas&lt;/h3&gt;
-
-&lt;p&gt;I haven’t gone through the whole lecture series. However, I watched quite a few lectures by him and they are some of the clearest &lt;a href=&#34;https://www.youtube.com/watch?v=w2OtwL5T1ow&amp;amp;list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&#34; target=&#34;_blank&#34;&gt;introductions those topics on ML&lt;/a&gt; that I found on youtube.&lt;/p&gt;
-
-&lt;h3 id=&#34;machine-learning-lectures-by-ali-ghodsi&#34;&gt;Machine Learning lectures by Ali Ghodsi&lt;/h3&gt;
-
-&lt;p&gt;One of the hidden gems of youtube &lt;a href=&#34;https://www.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A/playlists&#34; target=&#34;_blank&#34;&gt;Machine learning lecture series&lt;/a&gt;
-. I have watched a couple of this lecture and they are brilliant. I would highly recommend his lecture on Decision Tree.&lt;/p&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;This is by no means a complete list. I went through many more resources. I will add those and the ones that I am currently going through soon.&lt;/p&gt;
-
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Thermodynamics, ESM, and NESM</title>
-      <link>https://arshishir.github.io/post/basic/</link>
-      <pubDate>Fri, 01 Feb 2019 01:38:30 -0500</pubDate>
-      
-      <guid>https://arshishir.github.io/post/basic/</guid>
-      <description>
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;idea.jpg&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Basic Idea&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why?</title>
-      <link>https://arshishir.github.io/post/why/</link>
-      <pubDate>Fri, 01 Feb 2019 01:38:30 -0500</pubDate>
-      
-      <guid>https://arshishir.github.io/post/why/</guid>
-      <description>&lt;p&gt;As a Ph.D. student, we are exposed to lots of new ideas and concepts. The posts on websites are my attempt to keep track of those ideas and concepts. I started a blog a couple of years ago but failed to maintain it. This is my second go at it.&lt;/p&gt;
-
-&lt;p&gt;I set up this website using Hugo framework with the academic theme. I have high hopes from this set up as it natively supports $\LaTeX$.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Cracking Captcha using Deep Learning</title>
       <link>https://arshishir.github.io/projects/cracking_captach/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
@@ -175,6 +100,82 @@ with open(&#39;~/Desktop/Neural_nets/data_10/&#39;+&#39;labels.txt&#39;,&#39;w&#
       
       <guid>https://arshishir.github.io/publication/jcp_2011/jimm/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration in ML</title>
+      <link>https://arshishir.github.io/post/expo_in_ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshishir.github.io/post/expo_in_ml/</guid>
+      <description>
+
+&lt;p&gt;For the past year or so, I have been dabbling in machine learning. Last summer, I decided to spend some serious amount of time exploring ML. As a beginner, I got overwhelmed by the plethora of resources out there. Meanwhile, I convinced one of my friends to go on this exploration with me. We decided to go through lectures on &lt;em&gt;machine learning by Andrew Ng&lt;/em&gt;. The idea was to watch his old &lt;em&gt;Coursera&lt;/em&gt; lectures and meet once a week and discuss those ideas.&lt;/p&gt;
+
+&lt;p&gt;Fortunately that summer, I also got an opportunity to mentor a high school student. He wanted to explore some computer science related topic. So, I decided to teach him machine learning. This decision forced me to pick a book and some sets of lecture notes. I choose &lt;em&gt;Pattern Recognition and Machine Learning (PRML)&lt;/em&gt; by Christopher Bishop and &lt;em&gt;Deep learning specialization by Andrew Ng&lt;/em&gt;. With the added responsibility of teaching, I strated going through first few chapters of &lt;em&gt;PRML&lt;/em&gt;. Based on &lt;em&gt;PRML&lt;/em&gt; and &lt;em&gt;Deep Learning specialization&lt;/em&gt;, I made lecture notes so that I could convey those ideas clearly. It was fun!&lt;/p&gt;
+
+&lt;p&gt;In the mean that I came across some other very useful resources. Here’s a list of some of those resources:&lt;/p&gt;
+
+&lt;h3 id=&#34;support-vector-machine&#34;&gt;Support Vector Machine&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;One of the most gentle and clear introductions to SVM by &lt;a href=&#34;https://www.youtube.com/watch?v=_PwhiWxHK8o&amp;amp;t&#34; target=&#34;_blank&#34;&gt;Patrick Winston&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Interesting and very helpful SVM recitation session by &lt;a href=&#34;https://www.youtube.com/watch?v=ik7E7r2a1h8&#34; target=&#34;_blank&#34;&gt;Jessica Noss&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;machine-learning-lectures-by-nando-freitas&#34;&gt;Machine Learning lectures by Nando Freitas&lt;/h3&gt;
+
+&lt;p&gt;I haven’t gone through the whole lecture series. However, I watched quite a few lectures by him and they are some of the clearest &lt;a href=&#34;https://www.youtube.com/watch?v=w2OtwL5T1ow&amp;amp;list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&#34; target=&#34;_blank&#34;&gt;introductions those topics on ML&lt;/a&gt; that I found on youtube.&lt;/p&gt;
+
+&lt;h3 id=&#34;machine-learning-lectures-by-ali-ghodsi&#34;&gt;Machine Learning lectures by Ali Ghodsi&lt;/h3&gt;
+
+&lt;p&gt;One of the hidden gems of youtube &lt;a href=&#34;https://www.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A/playlists&#34; target=&#34;_blank&#34;&gt;Machine learning lecture series&lt;/a&gt;
+. I have watched a couple of this lecture and they are brilliant. I would highly recommend his lecture on Decision Tree.&lt;/p&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;This is by no means a complete list. I went through many more resources. I will add those and the ones that I am currently going through soon.&lt;/p&gt;
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Thermodynamics, ESM, and NESM</title>
+      <link>https://arshishir.github.io/post/basic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshishir.github.io/post/basic/</guid>
+      <description>&lt;p&gt;The picture below summarizes very basic idea behind Thermodynamics, Equilibrium Statistical Mechanics, and Nonequilibrium Statistical Mechanics.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;idea.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Basic Idea based on Elements of Nonequilibrium Statistical Mechanics book by V. Balakrishnan&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why?</title>
+      <link>https://arshishir.github.io/post/why/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshishir.github.io/post/why/</guid>
+      <description>&lt;p&gt;As a Ph.D. student, we are exposed to lots of new ideas and concepts. The posts on websites are my attempt to keep track of those ideas and concepts. I started a blog a couple of years ago but failed to maintain it. This is my second go at it.&lt;/p&gt;
+
+&lt;p&gt;I set up this website using Hugo framework with the academic theme. I have high hopes from this set up as it natively supports $\LaTeX$.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
