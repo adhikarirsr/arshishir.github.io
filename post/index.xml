@@ -14,10 +14,10 @@
     
     <item>
       <title>Thermodynamics, ESM, and NESM</title>
-      <link>https://arshishir.github.io/post/fpe/</link>
+      <link>https://arshishir.github.io/post/basic/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://arshishir.github.io/post/fpe/</guid>
+      <guid>https://arshishir.github.io/post/basic/</guid>
       <description>The picture below summarizes very basic idea behind Thermodynamics, Equilibrium Statistical Mechanics, and Nonequilibrium Statistical Mechanics.  Basic Idea based on Elements of Nonequilibrium Statistical Mechanics book by V. Balakrishnan</description>
     </item>
     
@@ -28,16 +28,6 @@
       
       <guid>https://arshishir.github.io/post/expo_in_ml/</guid>
       <description>For the past year or so, I have been dabbling in machine learning. Last summer, I decided to spend some serious amount of time exploring ML. As a beginner, I got overwhelmed by the plethora of resources out there. Meanwhile, I convinced one of my friends to go on this exploration with me. We decided to go through lectures on machine learning by Andrew Ng. The idea was to watch his old Coursera lectures and meet once a week and discuss those ideas.</description>
-    </item>
-    
-    <item>
-      <title>Why?</title>
-      <link>https://arshishir.github.io/post/interesting-_papers/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://arshishir.github.io/post/interesting-_papers/</guid>
-      <description>As a Ph.D. student, we are exposed to lots of new ideas and concepts. The posts on websites are my attempt to keep track of those ideas and concepts. I started a blog a couple of years ago but failed to maintain it. This is my second go at it.
-I set up this website using Hugo framework with the academic theme. I have high hopes from this set up as it natively supports $\LaTeX$.</description>
     </item>
     
     <item>

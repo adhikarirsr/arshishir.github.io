@@ -12,10 +12,10 @@
     
     <item>
       <title>Thermodynamics, ESM, and NESM</title>
-      <link>https://arshishir.github.io/post/fpe/</link>
+      <link>https://arshishir.github.io/post/basic/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://arshishir.github.io/post/fpe/</guid>
+      <guid>https://arshishir.github.io/post/basic/</guid>
       <description>&lt;p&gt;The picture below summarizes very basic idea behind Thermodynamics, Equilibrium Statistical Mechanics, and Nonequilibrium Statistical Mechanics.
 
 
@@ -136,18 +136,6 @@ with open(&#39;~/Desktop/Neural_nets/data_10/&#39;+&#39;labels.txt&#39;,&#39;w&#
 
 &lt;/div&gt;
 
-</description>
-    </item>
-    
-    <item>
-      <title>Why?</title>
-      <link>https://arshishir.github.io/post/interesting-_papers/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://arshishir.github.io/post/interesting-_papers/</guid>
-      <description>&lt;p&gt;As a Ph.D. student, we are exposed to lots of new ideas and concepts. The posts on websites are my attempt to keep track of those ideas and concepts. I started a blog a couple of years ago but failed to maintain it. This is my second go at it.&lt;/p&gt;
-
-&lt;p&gt;I set up this website using Hugo framework with the academic theme. I have high hopes from this set up as it natively supports $\LaTeX$.&lt;/p&gt;
 </description>
     </item>
     
