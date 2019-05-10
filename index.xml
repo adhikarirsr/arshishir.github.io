@@ -147,7 +147,7 @@ with open(&#39;~/Desktop/Neural_nets/data_10/&#39;+&#39;labels.txt&#39;,&#39;w&#
       <guid>https://arshishir.github.io/post/interesting-_website/</guid>
       <description>
 
-&lt;p&gt;This is  a place holder for all interesting blogs and websites.&lt;/p&gt;
+&lt;p&gt;This is my attempt to keep track of interesting science related websites and blogs&lt;/p&gt;
 
 &lt;h3 id=&#34;blogs&#34;&gt;Blogs&lt;/h3&gt;
 
@@ -161,9 +161,9 @@ with open(&#39;~/Desktop/Neural_nets/data_10/&#39;+&#39;labels.txt&#39;,&#39;w&#
 &lt;li&gt;John Carlo Baez
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://math.ucr.edu/home/baez/&#34; target=&#34;_blank&#34;&gt;http://math.ucr.edu/home/baez/&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;http://math.ucr.edu/home/baez/&#34; target=&#34;_blank&#34;&gt;http://math.ucr.edu/home/baez/&lt;/a&gt; &lt;br /&gt;
 This webpage has many interesting topics. I particularly find his exposition to information geometry (&lt;a href=&#34;http://math.ucr.edu/home/baez/information/&#34; target=&#34;_blank&#34;&gt;http://math.ucr.edu/home/baez/information/&lt;/a&gt;) very useful.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://math.ucr.edu/home/baez/stoch_stable.pdf&#34; target=&#34;_blank&#34;&gt;http://math.ucr.edu/home/baez/stoch_stable.pdf&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;http://math.ucr.edu/home/baez/stoch_stable.pdf&#34; target=&#34;_blank&#34;&gt;http://math.ucr.edu/home/baez/stoch_stable.pdf&lt;/a&gt; &lt;br /&gt;
 Quantum Techniques for Stochastic Mechanics. A monogram, I hope to go through one day.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Gavin E. Crooks
