@@ -12,6 +12,14 @@
     
     <url>
     
+      <loc>https://arshishir.github.io/post/basic/</loc>
+      <lastmod>2019-02-01T01:38:30-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://arshishir.github.io/post/why/</loc>
       <lastmod>2019-02-01T01:38:30-05:00</lastmod>
     </url>
@@ -112,6 +120,15 @@
     
     <url>
     
+      <loc>https://arshishir.github.io/tags/equilibrium-stat-mechanics/</loc>
+      <lastmod>2019-02-01T01:38:30-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://arshishir.github.io/tags/exact/</loc>
       <lastmod>2011-07-28T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -132,6 +149,15 @@
     
       <loc>https://arshishir.github.io/tags/machine-learning/</loc>
       <lastmod>2019-02-03T01:38:30-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://arshishir.github.io/tags/non-equilibrium-stat-mechanics/</loc>
+      <lastmod>2019-02-01T01:38:30-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -195,6 +221,15 @@
     
       <loc>https://arshishir.github.io/tags/</loc>
       <lastmod>2015-11-23T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://arshishir.github.io/tags/thermodynamics/</loc>
+      <lastmod>2019-02-01T01:38:30-05:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Non-equilibrium Stat mechanics on S.R.A</title>
+    <link>https://arshishir.github.io/tags/non-equilibrium-stat-mechanics/</link>
+    <description>Recent content in Non-equilibrium Stat mechanics on S.R.A</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 01 Feb 2019 01:38:30 -0500</lastBuildDate>
+    
+	<atom:link href="https://arshishir.github.io/tags/non-equilibrium-stat-mechanics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thermodynamics, ESM, and NESM</title>
+      <link>https://arshishir.github.io/post/basic/</link>
+      <pubDate>Fri, 01 Feb 2019 01:38:30 -0500</pubDate>
+      
+      <guid>https://arshishir.github.io/post/basic/</guid>
+      <description>  Basic Idea   </description>
+    </item>
+    
+  </channel>
+</rss>
